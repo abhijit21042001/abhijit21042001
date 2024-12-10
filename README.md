@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Abhijit Lingse</h1>
-<h3 align="center">A passionate Full Stack Java Developer from India</h3>
+<h3 align="center">A passionate Full Stack Java Developer from Mumbai, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijit21042001&label=Profile%20views&color=0e75b6&style=flat" alt="abhijit21042001" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Live Project**
+- 🔭 I’m currently working as **Project Engineer**
 
-- 🌱 I’m currently learning **Spring Boot,PostgreSql**
+- 🌱 **Spring Boot, PostgreSql, js, **
 
 - 💬 Ask me about **Java, Spring MVC, Spring JDBC, PostgreSQL, JavaScript, Jsp**
 
 - 📫 How to reach me **abhilingse132132@gmail.com**
 
-- 📄 Know about my experiences [Fresh Pass out 2K23,Interning At CDAC Mumbai](Fresh Pass out 2K23,Interning At CDAC Mumbai)
+- 📄 Know about my experiences [Pass out 2K23,Working At CDAC Mumbai](Pass out 2K23,Working At CDAC Mumbai)
 
 - ⚡ Fun fact **In leisure time i am a music Lover**
 
